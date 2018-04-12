@@ -1,0 +1,4 @@
+﻿  ONE_STEP_PRICE.cpp
+c:\users\chent\source\repos\one_step_price\one_step_price\one_step_price.cpp(111): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\chent\source\repos\one_step_price\one_step_price\one_step_price.cpp(127): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ONE_STEP_PRICE.vcxproj -> C:\Users\chent\source\repos\ONE_STEP_PRICE\Debug\ONE_STEP_PRICE.exe
